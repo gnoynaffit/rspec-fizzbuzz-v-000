@@ -5,7 +5,7 @@ def fizzbuzz (i)
     puts "Fizz"
   elsif i % 5 == 0
     puts "Buzz"
-  elsif % 3 == 0 && i % 5 == 0
+  elsif i % 3 == 0 && i % 5 == 0
     puts "FizzBuzz"
 
 
